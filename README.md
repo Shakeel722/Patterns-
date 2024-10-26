@@ -1,1 +1,1 @@
-# Patterns-
+# Pattern of the inverted pyramid 
